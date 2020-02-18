@@ -4,7 +4,7 @@ This code is based on Telegram BOT Library for ESP8266. This project creates an 
 
 1. ESP8266 code
 2. Arduino UNO code
-3. [ESP8266TelegramBOT.h ](https://github.com/Gianbacchio/ESP8266-TelegramBot) modified library
+3. [ESP8266TelegramBOT.h ](https://github.com/Gianbacchio/ESP8266-TelegramBot) original library
 
 ## ESP8266 code
 It creates an interface between Telegram API and a Arduino. It uses three libraries:

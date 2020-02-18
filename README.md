@@ -35,3 +35,12 @@ Programming ESP8266 01 can be a bit tricky. Next connection diagram could be use
 
 ## Arduino UNO code
 This code reads serial port for messages from ESP8266. If message is available, checks authorization and do the required command. Code can be found on **ArduinoCode** library.
+
+## Commands
+Next commands can be send to Telegram bot being listened by ESP8266 and Arduino:
+- **/start** gives a welcome message
+- **/code** returns usercode. Important to autorize a new user
+- **/on** turns on alarm sending a notification to authorized users
+- **/off** turn off alarm, switch off sound, and sends a notification to authorized users
+- **/add+usercode** adds a new user to the security system
+

@@ -5,7 +5,7 @@ Telegram Home alarm is capable of:
 - Add new allowed users
 - Add new commands and sensors on code depending on your needs
 ## Introduction
-This code is based on Telegram BOT Library for ESP8266. This project creates an interface between a Telegram Bot and a Arduino (Any), providing total control over it. It is composed by two Arduino codes and a ESP8266TelegramBOT modified library:
+This code is based on Telegram BOT Library for ESP8266. Creates an interface between a Telegram Bot and a Arduino (Any), providing total control over it. It is composed by two Arduino codes and a ESP8266TelegramBOT modified library:
 
 1. ESP8266 code
 2. Arduino UNO code

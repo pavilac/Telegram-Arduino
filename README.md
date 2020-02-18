@@ -1,4 +1,4 @@
-# Telegram-Smart Home Alarm
+# Telegram-Smart Arduino Home Alarm
 Telegram Home alarm is capable of:
 - On/Off alarm through Telegram
 - Send you alerts when intrusion is detected (PIR sensor)
